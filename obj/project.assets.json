@@ -10516,11 +10516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\AdvancedAJAX.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\AdvancedAJAX.csproj",
       "projectName": "AdvancedAJAX",
-      "projectPath": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\AdvancedAJAX.csproj",
+      "projectPath": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\AdvancedAJAX.csproj",
       "packagesPath": "C:\\Users\\elfat\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\obj\\",
+      "outputPath": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elfat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10591,7 +10591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

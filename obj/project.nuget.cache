@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vo0NNXJLtCYwdYVx60bvDdxuyxeVUJc6vn0uNB1DNjTJGi0/PzB64QkX0NDjpKrNBDY0xldv3XRe0mo6pAxpbg==",
+  "dgSpecHash": "xi9nirllVB6igfmGQL0/K0yQswXIGwpJUigkgox3MJw/Bi2Y5nKMbcMDoPXpzrDkBGsAwwz68KMZx+g5kSqaRA==",
   "success": true,
-  "projectFilePath": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\AdvancedAJAX.csproj",
+  "projectFilePath": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\AdvancedAJAX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elfat\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\elfat\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
