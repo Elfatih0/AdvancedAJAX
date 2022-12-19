@@ -49,3 +49,11 @@ $(".custom-file-input").on("change", function () {
 });
 
 //============================================= this is for photo upload END ===================================================================*@
+
+
+//for dialog ------------------------------------------------------------------
+function ShowCreateModalForm() {
+    $("#DivCreateDialogHolder").modal('show');
+    return;
+}
+//for dialog end ------------------------------------------------------------------

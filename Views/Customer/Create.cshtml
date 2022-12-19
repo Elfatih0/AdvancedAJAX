@@ -49,10 +49,22 @@
                 <input asp-for="EmailId" class="form-control" />
                 <span asp-validation-for="EmailId" class="text-danger"></span>
             </div>
-            <div class="form-group">
+
+            <div class="form-group btn-group col-12"> @*=============================================this is for dialog ajax (added) ===================================================================*@
+            <div class="col-11">
                 <label asp-for="CountryId" class="control-label"></label>
-                <select asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries" onchange="FillCities(this,'lstCity');"></select>
+                    <select id="lstCountryId" asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries" onchange="FillCities(this,'lstCity');"></select> @*=this is for dialog ajax (added id="lstCountryId")=*@
             </div>
+            @*=============================================this is for dialog ajax START ===================================================================*@
+            <div class="col-1 mt-4">
+                <button class="btn btn-success" onclick="ShowCountryCreateModal">
+                    *
+                </button>
+            </div>
+            </div>
+            @*=============================================this is for dialog ajax END ===================================================================*@
+
+
             <div class="form-group">
                 <label asp-for="CityId" class="control-label"></label>
                 <select id="lstCity" asp-for="CityId" class ="form-control" asp-items="ViewBag.Cities"></select>
@@ -103,6 +115,20 @@
 
 
     <script type="text/javascript">
+
+
+        //this is function to call the dialog###################################################################################################################################
+        function ShowCountryCreateModal() {
+            $.ajax({
+                url: "*/country/CreateModelForm",
+                type: 'get',
+                success: function (response) {
+                    $("#DivCreateDialog").html(response);
+                    ShowCreateModelForm();
+                }
+            });
+            return;
+        }
 
 
     </script>

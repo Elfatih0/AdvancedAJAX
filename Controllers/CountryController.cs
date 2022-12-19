@@ -38,6 +38,16 @@ namespace AdvancedAJAX.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+
+        //***************************************************************************this is for the dialog ************************************************************
+        [HttpGet]
+        public IActionResult CreateModelForm()
+        {
+            Country country = new Country();
+            return PartialView("_CreateModalForm", country);
+        }
+
+
         [HttpGet]
         public IActionResult Details(int Id)
         {

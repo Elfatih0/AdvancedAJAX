@@ -109,7 +109,14 @@ namespace AdvancedAJAX.Controllers
         [HttpGet]
         public IActionResult Delete(int Id)
         {
-            Customer customer = _context.Customers.Where(c => c.Id == Id).FirstOrDefault();
+            //Customer customer = _context.Customers.Where(c => c.Id == Id).FirstOrDefault();
+
+            //this is for DELETE page update to bring country and city
+            Customer customer = _context.Customers
+              .Include(cty => cty.City)
+              .Include(cou => cou.City.Country)
+              .Where(c => c.Id == Id).FirstOrDefault();
+
             return View(customer);
         }
 
@@ -117,8 +124,14 @@ namespace AdvancedAJAX.Controllers
         [HttpPost]
         public IActionResult Delete(Customer customer)
         {
+            //_context.Attach(customer);
+            //_context.Entry(customer).State = EntityState.Deleted;
+            //_context.SaveChanges();
+            //return RedirectToAction(nameof(Index));
+
             _context.Attach(customer);
             _context.Entry(customer).State = EntityState.Deleted;
+            _context.Entry(customer.City.Country).State = EntityState.Detached;
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
