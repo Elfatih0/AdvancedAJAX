@@ -56,4 +56,43 @@ function ShowCreateModalForm() {
     $("#DivCreateDialogHolder").modal('show');
     return;
 }
+
+function submitModalForm() {
+    var btnSubmit = document.getElementById('btnSubmit');
+    btnSubmit.click();
+}
+
+
+//first this method gets the refrence to the back btn then  raises the click event of that btn so that the modal dialog closes and focus back to the form
+function refreshCountryList() {
+    var btnBack = document.getElementById('dupBackBtn');
+    btnBack.click();
+    FillCountries("lstCountryId");
+}
+
+
+
+function GetCountries() {
+
+    var lstCountries = $("#" + lstCountryId);
+    lstCountries.empty();
+
+    lstCountries.append($('<option/>', {
+        value: null,
+        text: "Select Country"
+    }));
+
+    $.getJSON("/country/GetCountries", function (countries) {
+        if (countries != null && !jQuery.isEmptyObject(countries)) {
+
+            $.each(countries, function (index, country) {
+                lstCountries.append($('<option/>', {
+                    value: country.value,
+                    text: country.text
+                }));
+            });
+        };
+    });
+   
+}
 //for dialog end ------------------------------------------------------------------

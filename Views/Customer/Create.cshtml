@@ -57,10 +57,11 @@
             </div>
             @*=============================================this is for dialog ajax START ===================================================================*@
             <div class="col-1 mt-4">
-                <button class="btn btn-success" onclick="ShowCountryCreateModal">
-                    *
+                <button class="btn btn-success" onclick="ShowCountryCreateModal();">
+                    +
                 </button>
             </div>
+
             </div>
             @*=============================================this is for dialog ajax END ===================================================================*@
 
@@ -120,11 +121,11 @@
         //this is function to call the dialog###################################################################################################################################
         function ShowCountryCreateModal() {
             $.ajax({
-                url: "*/country/CreateModelForm",
+                url: "/country/CreateModalForm",
                 type: 'get',
                 success: function (response) {
                     $("#DivCreateDialog").html(response);
-                    ShowCreateModelForm();
+                    ShowCreateModalForm();
                 }
             });
             return;

@@ -1,7 +1,12 @@
 ﻿using AdvancedAJAX.Data;
 using AdvancedAJAX.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
+using System.Collections.Generic;
+using static System.Net.Mime.MediaTypeNames;
+using System.Linq;
 
 namespace AdvancedAJAX.Controllers
 {
@@ -41,11 +46,21 @@ namespace AdvancedAJAX.Controllers
 
         //***************************************************************************this is for the dialog ************************************************************
         [HttpGet]
-        public IActionResult CreateModelForm()
+        public IActionResult CreateModalForm()
         {
             Country country = new Country();
             return PartialView("_CreateModalForm", country);
         }
+
+
+        [HttpPost]
+        public IActionResult CreateModalForm(Country country)
+        {
+            _context.Add(country);
+            _context.SaveChanges();
+            return NoContent();
+        }
+        //***************************************************************************this is for the dialog end ************************************************************
 
 
         [HttpGet]
@@ -109,6 +124,30 @@ namespace AdvancedAJAX.Controllers
         }
 
 
+        public JsonResult GetCountries()
+        {
+            var lstCountries = new List<SelectListItem>();
 
-    }
-}
+            List<Country> Countries = _context.Countries.ToList();
+
+            lstCountries = Countries.Select(ct => new SelectListItem()
+            {
+                Value = ct.Id.ToString(),
+                Text = ct.Name
+            }).ToList();
+
+            var defItem = new SelectListItem()
+            {
+                Value ="",
+                Text = "----Select Country----"
+            };
+
+            lstCountries.Insert(0, defItem);
+
+            return Json(lstCountries);
+        }
+
+        }
+
+        }
+
