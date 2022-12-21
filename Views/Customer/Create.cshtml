@@ -65,10 +65,16 @@
             </div>
             @*=============================================this is for dialog ajax END ===================================================================*@
 
-
-            <div class="form-group">
+            <div class="form-group btn-group col-12">
+                <div class="col-11">
                 <label asp-for="CityId" class="control-label"></label>
                 <select id="lstCity" asp-for="CityId" class ="form-control" asp-items="ViewBag.Cities"></select>
+            </div>
+            <div class="col-1 mt-4">
+                <button class="btn btn-success" onclick="ShowCityCreateModal();">
+                    +
+                </button>
+            </div>
             </div>
             
             @*=============================================this is for photo upload START ===================================================================*@
@@ -117,19 +123,6 @@
 
     <script type="text/javascript">
 
-
-        //this is function to call the dialog###################################################################################################################################
-        function ShowCountryCreateModal() {
-            $.ajax({
-                url: "/country/CreateModalForm",
-                type: 'get',
-                success: function (response) {
-                    $("#DivCreateDialog").html(response);
-                    ShowCreateModalForm();
-                }
-            });
-            return;
-        }
 
 
     </script>

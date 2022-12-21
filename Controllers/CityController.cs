@@ -116,5 +116,43 @@ namespace AdvancedAJAX.Controllers
             return lstCountries;
         }
 
+
+        //***************************************************************************this is for the dialog ************************************************************
+        [HttpGet]
+        public IActionResult CreateModalForm(int countryId)
+        {
+            City city = new City();
+            city.CountryId = countryId;
+            city.CountryName = GetCountryName(countryId);
+            return PartialView("_CreateModalForm",city);
+        }
+
+
+        [HttpPost]
+        public IActionResult CreateModalForm(City city)
+        {
+            _context.Add(city);
+            _context.SaveChanges();
+            return NoContent();
+        }
+
+
+        //get name of the country from the db by passing the country id as a param
+        private string GetCountryName(int countryId)
+        {
+            if (countryId == 0)
+                return "";
+
+            string strCountryName = _context.Countries
+                .Where(ct => ct.Id == countryId)
+                .Select(nm => nm.Name).Single().ToString();
+
+            return strCountryName;
+
+        }
+
+        //***************************************************************************this is for the dialog end************************************************************
+
+
     }
 }

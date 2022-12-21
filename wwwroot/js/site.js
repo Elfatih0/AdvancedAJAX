@@ -4,6 +4,40 @@
 // Write your JavaScript code.
 
 
+//this is function to call the dialog###################################################################################################################################
+function ShowCountryCreateModal() {
+    $.ajax({
+        url: "/country/CreateModalForm",
+        type: 'get',
+        success: function (response) {
+            $("#DivCreateDialog").html(response);
+            ShowCreateModalForm();
+        }
+    });
+    return;
+}
+
+
+//this is function to call the dialog for city
+
+function ShowCityCreateModal() {
+
+    var lstCountryCtrl = document.getElementById('lstCountryId');
+    var countryid = lstCountryCtrl.options[lstCountryCtrl.selectedIndex].value;
+
+    $.ajax({
+        url: "/city/CreateModalForm?countryid=" + countryid,
+        type: 'get',
+        success: function (response) {
+            $("#DivCreateDialog").html(response);
+            ShowCreateModalForm();
+        }
+    })
+
+}
+
+
+
 //============================================= this is for fill cities based on countries lists START ===================================================================*@
 
 function FillCities(lstCountryCtrl, lstCityId) {
@@ -57,6 +91,8 @@ function ShowCreateModalForm() {
     return;
 }
 
+
+
 function submitModalForm() {
     var btnSubmit = document.getElementById('btnSubmit');
     btnSubmit.click();
@@ -71,8 +107,20 @@ function refreshCountryList() {
 }
 
 
+//first this method gets the refrence to the back btn then  raises the click event of that btn so that the modal dialog closes and focus back to the form / same as above method
+//but here we find country list by passing the id on getElementById
 
-function GetCountries() {
+function refreshCityList() {
+    var btnBack = document.getElementById('dupBackBtn');
+    btnBack.click();
+    var lstCountryCtrl = document.getElementById('lstCountryId')
+    FillCities(lstCountryCtrl, "lstCity");
+}
+
+
+
+//this to refresh the same dialog list at the same time
+function FillCountries(lstCountryId) {
 
     var lstCountries = $("#" + lstCountryId);
     lstCountries.empty();
