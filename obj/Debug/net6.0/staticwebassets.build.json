@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FZ4i7pxp87Sg9J1L3hBRTQ2cQ06rK5vuWKy+G1aY82g=",
+  "Hash": "rWh9JNUuRFI9OC0BS7egeATcUuHF74XM++7AEcnoTsU=",
   "Source": "AdvancedAJAX",
   "BasePath": "_content/AdvancedAJAX",
   "Mode": "Default",
@@ -219,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\41c16567-d497-46ad-8d2b-4c9b51a979a7_addhome.jpg"
+    },
+    {
+      "Identity": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg",
+      "SourceId": "AdvancedAJAX",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\",
+      "BasePath": "_content/AdvancedAJAX",
+      "RelativePath": "img/44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg"
     },
     {
       "Identity": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\4cef127d-fabd-4e76-b079-745a9080fca6_cdg.jpg",

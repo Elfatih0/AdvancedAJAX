@@ -6,8 +6,10 @@ namespace AdvancedAJAX.Data
 {
     public class AppDbContext : DbContext
     {
+
         public AppDbContext()
         {
+
         }
         public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
@@ -18,6 +20,8 @@ namespace AdvancedAJAX.Data
         public virtual DbSet<Country> Countries { get; set; }
 
         public virtual DbSet<Customer> Customers { get; set; }
+
+        public virtual DbSet<Unit> Units { get; set; }
 
     }
 }

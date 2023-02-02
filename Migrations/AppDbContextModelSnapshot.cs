@@ -114,7 +114,7 @@ namespace AdvancedAJAX.Migrations
                     b.ToTable("Customers");
                 });
 
-            modelBuilder.Entity("AdvancedAJAX.Models.Saller", b =>
+            modelBuilder.Entity("AdvancedAJAX.Models.Unit", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -122,34 +122,19 @@ namespace AdvancedAJAX.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CityId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("EmailId")
+                    b.Property<string>("Description")
                         .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
 
-                    b.Property<string>("FirstName")
+                    b.Property<string>("Name")
                         .IsRequired()
-                        .HasMaxLength(75)
-                        .HasColumnType("nvarchar(75)");
-
-                    b.Property<string>("LastName")
-                        .IsRequired()
-                        .HasMaxLength(75)
-                        .HasColumnType("nvarchar(75)");
-
-                    b.Property<string>("PhotoUrl")
-                        .IsRequired()
-                        .HasMaxLength(500)
-                        .HasColumnType("nvarchar(500)");
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CityId");
-
-                    b.ToTable("Sallers");
+                    b.ToTable("Units");
                 });
 
             modelBuilder.Entity("AdvancedAJAX.Models.City", b =>
@@ -164,17 +149,6 @@ namespace AdvancedAJAX.Migrations
                 });
 
             modelBuilder.Entity("AdvancedAJAX.Models.Customer", b =>
-                {
-                    b.HasOne("AdvancedAJAX.Models.City", "City")
-                        .WithMany()
-                        .HasForeignKey("CityId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("City");
-                });
-
-            modelBuilder.Entity("AdvancedAJAX.Models.Saller", b =>
                 {
                     b.HasOne("AdvancedAJAX.Models.City", "City")
                         .WithMany()

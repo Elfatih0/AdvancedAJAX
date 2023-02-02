@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AdvancedAJAX.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20221217090053_customer table")]
-    partial class customertable
+    [Migration("20230202140137_init-the-unit")]
+    partial class inittheunit
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -115,6 +115,27 @@ namespace AdvancedAJAX.Migrations
                     b.HasIndex("CityId");
 
                     b.ToTable("Customers");
+                });
+
+            modelBuilder.Entity("AdvancedAJAX.Models.Unit", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(75)
+                        .HasColumnType("nvarchar(75)");
+
+                    b.Property<string>("Name")
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Units");
                 });
 
             modelBuilder.Entity("AdvancedAJAX.Models.City", b =>

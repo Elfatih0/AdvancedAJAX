@@ -5,6 +5,7 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvancedAJAX
 build_property.RootNamespace = AdvancedAJAX
@@ -101,6 +102,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/_ViewImports.cshtml]

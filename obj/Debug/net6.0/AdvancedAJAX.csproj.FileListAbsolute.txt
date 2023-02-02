@@ -572,3 +572,8 @@ D:\Personal Projects\AdvancedAJAXCRUD\AJAXCRUD\obj\Debug\net6.0\AdvancedAJAX.pdb
 D:\Personal Projects\AdvancedAJAXCRUD\AJAXCRUD\obj\Debug\net6.0\AdvancedAJAX.genruntimeconfig.cache
 D:\Personal Projects\AdvancedAJAXCRUD\AJAXCRUD\obj\Debug\net6.0\ref\AdvancedAJAX.dll
 D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\bin\Debug\net6.0\libman.json
+D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\obj\Debug\net6.0\staticwebassets\msbuild.AdvancedAJAX.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\obj\Debug\net6.0\staticwebassets\msbuild.build.AdvancedAJAX.props
+D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdvancedAJAX.props
+D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdvancedAJAX.props
+D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\obj\Debug\net6.0\staticwebassets.pack.json
