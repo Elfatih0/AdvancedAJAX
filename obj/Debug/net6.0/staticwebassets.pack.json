@@ -1,411 +1,411 @@
 {
   "Files": [
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvancedAJAX.bundle.scp.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AdvancedAJAX.bundle.scp.css",
       "PackagePath": "staticwebassets\\AdvancedAJAX.bundle.scp.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\css\\site.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\favicon.ico",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\0519b26e-8a14-43a3-bc1a-cb0c1e1fc5de_pexels-rok-romih-3312671.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\0519b26e-8a14-43a3-bc1a-cb0c1e1fc5de_pexels-rok-romih-3312671.jpg",
       "PackagePath": "staticwebassets\\img\\0519b26e-8a14-43a3-bc1a-cb0c1e1fc5de_pexels-rok-romih-3312671.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\0f66813c-755c-4598-af92-597ce0a6f878_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\0f66813c-755c-4598-af92-597ce0a6f878_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\0f66813c-755c-4598-af92-597ce0a6f878_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\12134050-006d-4594-826e-60efc78fb8cc_cg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\12134050-006d-4594-826e-60efc78fb8cc_cg.jpg",
       "PackagePath": "staticwebassets\\img\\12134050-006d-4594-826e-60efc78fb8cc_cg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\191d3ab1-eb01-484e-bf4a-0f4f7dd96962_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\191d3ab1-eb01-484e-bf4a-0f4f7dd96962_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\191d3ab1-eb01-484e-bf4a-0f4f7dd96962_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\1dc444d7-9247-4db6-b2dd-20bb77b4d3e9_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\1dc444d7-9247-4db6-b2dd-20bb77b4d3e9_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\1dc444d7-9247-4db6-b2dd-20bb77b4d3e9_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\257f48bb-2151-49a0-bcc5-ed8f53207d73_cg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\257f48bb-2151-49a0-bcc5-ed8f53207d73_cg.jpg",
       "PackagePath": "staticwebassets\\img\\257f48bb-2151-49a0-bcc5-ed8f53207d73_cg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\3f7b2048-9684-4638-b389-0727385488a0_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\3f7b2048-9684-4638-b389-0727385488a0_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\3f7b2048-9684-4638-b389-0727385488a0_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\41c16567-d497-46ad-8d2b-4c9b51a979a7_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\41c16567-d497-46ad-8d2b-4c9b51a979a7_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\41c16567-d497-46ad-8d2b-4c9b51a979a7_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg",
       "PackagePath": "staticwebassets\\img\\44dc92c8-c617-4c8b-abe6-73e7423d7827_Funny-Avatar-Photo-DC17.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\4cef127d-fabd-4e76-b079-745a9080fca6_cdg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\4cef127d-fabd-4e76-b079-745a9080fca6_cdg.jpg",
       "PackagePath": "staticwebassets\\img\\4cef127d-fabd-4e76-b079-745a9080fca6_cdg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\51b2ac85-9ed2-448a-b2c8-b2d977a7eee8_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\51b2ac85-9ed2-448a-b2c8-b2d977a7eee8_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\51b2ac85-9ed2-448a-b2c8-b2d977a7eee8_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\55ce9e5c-db84-4131-b836-1fcb6f340913_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\55ce9e5c-db84-4131-b836-1fcb6f340913_dg.jpg",
       "PackagePath": "staticwebassets\\img\\55ce9e5c-db84-4131-b836-1fcb6f340913_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\5832907e-c6e3-45aa-acef-40e5cbe2b24f_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\5832907e-c6e3-45aa-acef-40e5cbe2b24f_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\5832907e-c6e3-45aa-acef-40e5cbe2b24f_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\6a122549-23a7-48c6-a0b6-b142713523f2_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\6a122549-23a7-48c6-a0b6-b142713523f2_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\6a122549-23a7-48c6-a0b6-b142713523f2_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\6c723672-b7d3-48b7-81e7-be42081eee24_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\6c723672-b7d3-48b7-81e7-be42081eee24_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\6c723672-b7d3-48b7-81e7-be42081eee24_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\6f7874b4-cd4a-4f7e-927b-53d221f85604_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\6f7874b4-cd4a-4f7e-927b-53d221f85604_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\6f7874b4-cd4a-4f7e-927b-53d221f85604_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\70119436-78ae-41f3-8ffe-7669b0eb0906_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\70119436-78ae-41f3-8ffe-7669b0eb0906_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\70119436-78ae-41f3-8ffe-7669b0eb0906_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\73651c53-6942-4ff3-9e3e-af2691ae1978_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\73651c53-6942-4ff3-9e3e-af2691ae1978_dg.jpg",
       "PackagePath": "staticwebassets\\img\\73651c53-6942-4ff3-9e3e-af2691ae1978_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\779ca1e9-6f3e-4116-8689-a7974659c1f4_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\779ca1e9-6f3e-4116-8689-a7974659c1f4_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\779ca1e9-6f3e-4116-8689-a7974659c1f4_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\851c91a4-b22e-4d89-81c0-ea671976209b_biaxial-unibiaxial--geogrid2.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\851c91a4-b22e-4d89-81c0-ea671976209b_biaxial-unibiaxial--geogrid2.jpg",
       "PackagePath": "staticwebassets\\img\\851c91a4-b22e-4d89-81c0-ea671976209b_biaxial-unibiaxial--geogrid2.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\8f457acb-7fa2-4f06-ab25-7cab49a312f3_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\8f457acb-7fa2-4f06-ab25-7cab49a312f3_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\8f457acb-7fa2-4f06-ab25-7cab49a312f3_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\9c77e6e1-2010-4435-a44e-7682aad881a5_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\9c77e6e1-2010-4435-a44e-7682aad881a5_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\9c77e6e1-2010-4435-a44e-7682aad881a5_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\9e236ccc-ce52-4184-b61a-a26841da1aec_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\9e236ccc-ce52-4184-b61a-a26841da1aec_dg.jpg",
       "PackagePath": "staticwebassets\\img\\9e236ccc-ce52-4184-b61a-a26841da1aec_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\Funny-Avatar-Photo-DC17.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\Funny-Avatar-Photo-DC17.jpg",
       "PackagePath": "staticwebassets\\img\\Funny-Avatar-Photo-DC17.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\a310b83f-10ca-4700-af66-70945b24bab0_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\a310b83f-10ca-4700-af66-70945b24bab0_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\a310b83f-10ca-4700-af66-70945b24bab0_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\a59cbb1f-43f6-4d1f-b95b-1020cb447646_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\a59cbb1f-43f6-4d1f-b95b-1020cb447646_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\a59cbb1f-43f6-4d1f-b95b-1020cb447646_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\a7f6e488-0b75-4916-acd7-cd2d3daa9c3b_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\a7f6e488-0b75-4916-acd7-cd2d3daa9c3b_dg.jpg",
       "PackagePath": "staticwebassets\\img\\a7f6e488-0b75-4916-acd7-cd2d3daa9c3b_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\c332ca73-4335-4724-a343-cd42e93806d8_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\c332ca73-4335-4724-a343-cd42e93806d8_dg.jpg",
       "PackagePath": "staticwebassets\\img\\c332ca73-4335-4724-a343-cd42e93806d8_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\ccab6018-f2a8-4625-ab50-570fba1c80a7_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\ccab6018-f2a8-4625-ab50-570fba1c80a7_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\ccab6018-f2a8-4625-ab50-570fba1c80a7_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\d0f5bb4c-2a1e-4a35-bf4c-e645b04a3bfc_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\d0f5bb4c-2a1e-4a35-bf4c-e645b04a3bfc_dg.jpg",
       "PackagePath": "staticwebassets\\img\\d0f5bb4c-2a1e-4a35-bf4c-e645b04a3bfc_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\d12d8674-ac3e-4e1a-a7e5-e9a97ffec605_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\d12d8674-ac3e-4e1a-a7e5-e9a97ffec605_dg.jpg",
       "PackagePath": "staticwebassets\\img\\d12d8674-ac3e-4e1a-a7e5-e9a97ffec605_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\d385f09c-b95b-4966-a06b-7cd03aa16305_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\d385f09c-b95b-4966-a06b-7cd03aa16305_dg.jpg",
       "PackagePath": "staticwebassets\\img\\d385f09c-b95b-4966-a06b-7cd03aa16305_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\d4fcbb88-b341-42df-9f2f-4557588dae0b_cg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\d4fcbb88-b341-42df-9f2f-4557588dae0b_cg.jpg",
       "PackagePath": "staticwebassets\\img\\d4fcbb88-b341-42df-9f2f-4557588dae0b_cg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\d60b6024-80e6-4916-8fd1-c7ed0953736e_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\d60b6024-80e6-4916-8fd1-c7ed0953736e_dg.jpg",
       "PackagePath": "staticwebassets\\img\\d60b6024-80e6-4916-8fd1-c7ed0953736e_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\dce91f83-ae4d-4802-b970-1dcc292cc048_dg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\dce91f83-ae4d-4802-b970-1dcc292cc048_dg.jpg",
       "PackagePath": "staticwebassets\\img\\dce91f83-ae4d-4802-b970-1dcc292cc048_dg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\f023d4d5-8688-4792-9cd5-b39a6e583ec3_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\f023d4d5-8688-4792-9cd5-b39a6e583ec3_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\f023d4d5-8688-4792-9cd5-b39a6e583ec3_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\f30936bf-9924-4c05-8d0a-c7636efb2fe2_cg.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\f30936bf-9924-4c05-8d0a-c7636efb2fe2_cg.jpg",
       "PackagePath": "staticwebassets\\img\\f30936bf-9924-4c05-8d0a-c7636efb2fe2_cg.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\fa7595ed-55ec-4e8f-8084-dc47a0c60dd9_addhome.jpg",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\fa7595ed-55ec-4e8f-8084-dc47a0c60dd9_addhome.jpg",
       "PackagePath": "staticwebassets\\img\\fa7595ed-55ec-4e8f-8084-dc47a0c60dd9_addhome.jpg"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\img\\noimage.png",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\img\\noimage.png",
       "PackagePath": "staticwebassets\\img\\noimage.png"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\js\\site.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
       "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\PersonalProjects\\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\\AdvancedAJAX\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Personal Projects\\AdvancedAJAXCRUD\\AJAXCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -9,129 +9,129 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvancedAJAX
 build_property.RootNamespace = AdvancedAJAX
-build_property.ProjectDir = D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX\
+build_property.ProjectDir = D:\Personal Projects\AdvancedAJAXCRUD\AJAXCRUD\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PersonalProjects\Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist\AdvancedAJAX
+build_property.MSBuildProjectDirectory = D:\Personal Projects\AdvancedAJAXCRUD\AJAXCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/Create.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/Delete.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/Details.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/Edit.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/Index.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/City/_CreateModalForm.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/City/_CreateModalForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxfQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/Create.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/Delete.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/Details.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/Edit.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/Index.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Country/_CreateModalForm.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Country/_CreateModalForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxfQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Customer/Create.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Customer/Delete.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Customer/Details.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Customer/Edit.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Customer/Index.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Home/Index.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Home/Privacy.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Shared/Error.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Shared/_CreateModalDialog.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Shared/_CreateModalDialog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVNb2RhbERpYWxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Create.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Unit/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Delete.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Unit/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Details.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Unit/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Edit.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Unit/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Unit/Index.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Unit/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/_ViewImports.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/_ViewStart.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PersonalProjects/Advanced AJAX CRUD in ASP.NET Core MVC and Dynamic Cascading Selectlist/AdvancedAJAX/Views/Shared/_Layout.cshtml]
+[D:/Personal Projects/AdvancedAJAXCRUD/AJAXCRUD/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0wio86iq7e

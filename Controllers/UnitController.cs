@@ -7,39 +7,35 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using AdvancedAJAX.Data;
 using AdvancedAJAX.Models;
+using AdvancedAJAX.Interfaces;
 
 namespace AdvancedAJAX.Controllers
 {
     public class UnitController : Controller
     {
-        private readonly AppDbContext _context;
 
-        public UnitController(AppDbContext context)
-        {
-            _context = context;
-        }
 
         // GET: Unit
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-              return View(await _context.Units.ToListAsync());
+            List<Unit> units = _unitRepo.GetItems();
+            return View(units);
+        }
+
+        private readonly AppDbContext _context;
+
+        private readonly IUnit _unitRepo;
+
+        public UnitController(IUnit unitRepo)
+        {
+            _unitRepo = unitRepo;
         }
 
         // GET: Unit/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public  IActionResult Details(int id)
         {
-            if (id == null || _context.Units == null)
-            {
-                return NotFound();
-            }
 
-            var unit = await _context.Units
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (unit == null)
-            {
-                return NotFound();
-            }
-
+            Unit unit = _unitRepo.GetUnit(id);
             return View(unit);
         }
 
@@ -54,30 +50,21 @@ namespace AdvancedAJAX.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description")] Unit unit)
+        public IActionResult Create(Unit unit)
         {
-            if (ModelState.IsValid)
-            {
-                _context.Add(unit);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return View(unit);
+
+            unit=_unitRepo.Create(unit);
+
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Unit/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public IActionResult Edit(int id)
         {
-            if (id == null || _context.Units == null)
-            {
-                return NotFound();
-            }
 
-            var unit = await _context.Units.FindAsync(id);
-            if (unit == null)
-            {
-                return NotFound();
-            }
+
+            Unit unit = _unitRepo.GetUnit(id);
+
             return View(unit);
         }
 
@@ -97,8 +84,9 @@ namespace AdvancedAJAX.Controllers
             {
                 try
                 {
-                    _context.Update(unit);
-                    await _context.SaveChangesAsync();
+                    unit = _unitRepo.Edit(unit);
+
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -117,42 +105,28 @@ namespace AdvancedAJAX.Controllers
         }
 
         // GET: Unit/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public IActionResult Delete(int id)
         {
-            if (id == null || _context.Units == null)
-            {
-                return NotFound();
-            }
 
-            var unit = await _context.Units
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (unit == null)
-            {
-                return NotFound();
-            }
 
+            Unit unit = _unitRepo.GetUnit(id);
             return View(unit);
         }
 
         // POST: Unit/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public IActionResult DeleteConfirmed(Unit unit)
         {
             if (_context.Units == null)
             {
                 return Problem("Entity set 'AppDbContext.Units'  is null.");
             }
-            var unit = await _context.Units.FindAsync(id);
-            if (unit != null)
-            {
-                _context.Units.Remove(unit);
-            }
+             unit = _unitRepo.Delete(unit);
             
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
+        
         private bool UnitExists(int id)
         {
           return _context.Units.Any(e => e.Id == id);
